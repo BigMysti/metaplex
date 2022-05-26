@@ -38,3 +38,6 @@ js/packages/candy-machine-ui/.env
 traits
 traits-configuration.json
 js/packages/cli/test/assets
+
+# Local Netlify folder
+.netlify
